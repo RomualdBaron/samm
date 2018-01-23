@@ -1,11 +1,11 @@
 Radarr (Movies)
-http://nas-romu:7878
+http://localhost:7878
 
 Sonarr (Series)
-http://nas-romu:8989
+http://localhost:8989
 
 Deluge (Download client)
-http://nas-romu:8112
+http://localhost:8112
 
 Plex (Media Center)
-http://nas-romu:32400/web
+http://localhost:32400/web
